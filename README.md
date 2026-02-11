@@ -168,7 +168,7 @@ Expected Output:
 ---
 ## Screenshots
 ---
-![img1](https://github.com/benjoelreji/Blood-Bank-Management-System/blob/e1e30d2a8c0b43705a0d650baaaef9d9558b8d52/Screenshot%202026-02-11%20215645.pngg)
+![img1](https://github.com/benjoelreji/Blood-Bank-Management-System/blob/8a523f4b0f0b1e1545a314a1d0b83a71397212eb/Screenshot%202026-02-11%20215645.png)
 ![img2](https://github.com/benjoelreji/Blood-Bank-Management-System/blob/74906bd2d46d964863c5c34f926a310838726233/Screenshot%202026-02-11%20215657.png)
 ![img3]()
 ![img4]()
