@@ -16,7 +16,7 @@ Blood Bank Management System
 ### Team Members:
 
 * Ben Joel Reji(24ubc224)
-* Amal Maneesh(24ubc2)
+* Amal Manesh(24ubc212)
 
 ---
 
@@ -168,7 +168,7 @@ Expected Output:
 ---
 ## Screenshots
 ---
-![img]()
+![img](https://github.com/benjoelreji/Blood-Bank-Management-System/blob/e88f96ddcb0e297e5df381035b0db3f06da40bc4/Screenshot%202026-02-11%20215645.png)
 
 ## Conclusion
 
