@@ -168,8 +168,12 @@ Expected Output:
 ---
 ## Screenshots
 ---
-![img](https://github.com/benjoelreji/Blood-Bank-Management-System/blob/e88f96ddcb0e297e5df381035b0db3f06da40bc4/Screenshot%202026-02-11%20215645.png)
-
+![img1](https://github.com/benjoelreji/Blood-Bank-Management-System/blob/e88f96ddcb0e297e5df381035b0db3f06da40bc4/Screenshot%202026-02-11%20215645.png)
+![img2]()
+![img3]()
+![img4]()
+![img5]()
+![img6]()
 ## Conclusion
 
 The Blood Bank Management System successfully demonstrates:
